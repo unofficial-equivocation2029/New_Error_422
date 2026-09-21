@@ -51,3 +51,4 @@ A corrupted Minecraft modification engineered for unpredictable glitch mechanics
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 Developed by **[Dr. Jhonatan](https://github.com/drJhonatan00)**.
+<!-- Watashi wa watashi sore dame -->
